@@ -1,0 +1,62 @@
+\documentclass[compress,aspectratio = 169]{beamer}
+\usepackage{graphicx} % Required for inserting images
+\usepackage{amsmath}
+
+%\usepackage{mathspec}
+
+\usetheme[progressbar=frametitle, numbering=none]{metropolis}
+\useoutertheme[subsection=false]{miniframes}
+%\useoutertheme{smoothtree}
+\setbeamertemplate{section in toc}[sections numbered]
+\useinnertheme{circles}
+
+\usepackage{fontspec}
+
+\defaultfontfeatures{Mapping=tex-text}
+\setsansfont[Extension = .otf,
+				BoldItalicFont=*-BoldItalic, 
+             ItalicFont=*-RegularItalic, 
+             BoldFont=*-Bold, 
+             UprightFont=*-Regular]{SF-Pro-Text}
+%\setmathfont(Digits,Latin,Greek){AvenirNext-Regular.otf}
+
+\usecolortheme{ateneo}
+
+
+\usepackage{booktabs}
+
+\usepackage{upgreek}
+
+\usepackage{xspace}
+\newcommand{\themename}{\textbf{\textsc{metropolis}}\xspace}
+
+\usefonttheme{professionalfonts}
+\usepackage{unicode-math}
+
+\title[Stock price prediction]{Using Transformer Model for stock price prediction}
+\subtitle{Undergraduate thesis proposal presentation}
+\author[Alejo, Nery, Realda]{Albert Matthew Alejo \and Jaime Angelo Nery \and Zielle Frances Realda}
+\date{\today}
+\institute[ADMU]{Ateneo de Manila University}
+
+\usepackage{physics}
+
+\setbeamertemplate{footline}
+{
+    \leavevmode%
+    \hbox{%
+        \begin{beamercolorbox}[wd=.33\paperwidth,ht=3ex,dp=1ex,center]{author in head/foot}%
+            \usebeamerfont{author in head/foot}\insertshortauthor
+        \end{beamercolorbox}%
+        \begin{beamercolorbox}[wd=.34\paperwidth,ht=3ex,dp=1ex,center]{title in head/foot}%
+            \usebeamerfont{title in head/foot}\insertshorttitle
+        \end{beamercolorbox}%
+        \begin{beamercolorbox}[wd=.33\paperwidth,ht=3ex,dp=1ex,right]{date in head/foot}%
+            \usebeamerfont{date in head/foot}\insertshortdate{}\hspace*{2em}
+            \insertframenumber{} / \inserttotalframenumber\hspace*{2ex} 
+        \end{beamercolorbox}}%
+        \vskip0pt%
+    }
+    \makeatother
+
+\metroset{block=fill} 

@@ -1,0 +1,21 @@
+\beamer@sectionintoc {1}{Projectile motion in two dimensions}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Ideal model of projectile motion}{4}{0}{1}
+\beamer@sectionintoc {2}{Concepts}{7}{0}{2}
+\beamer@subsectionintoc {2}{1}{Kepler's laws of planetary motion and the Kepler problem}{8}{0}{2}
+\beamer@subsectionintoc {2}{2}{Newton's law of gravitation}{9}{0}{2}
+\beamer@sectionintoc {3}{Two-dimensional motion in celestial mechanics}{10}{0}{3}
+\beamer@subsectionintoc {3}{1}{Two-body problem}{11}{0}{3}
+\beamer@subsectionintoc {3}{2}{Reducing the two-body problem into a one-body problem}{14}{0}{3}
+\beamer@sectionintoc {4}{The orbit equation}{19}{0}{4}
+\beamer@subsectionintoc {4}{1}{Deriving the orbit equation}{20}{0}{4}
+\beamer@subsectionintoc {4}{2}{Differential equation}{24}{0}{4}
+\beamer@subsectionintoc {4}{3}{Closed-form solution}{31}{0}{4}
+\beamer@subsectionintoc {4}{4}{Model constants}{32}{0}{4}
+\beamer@sectionintoc {5}{Cases}{33}{0}{5}
+\beamer@subsectionintoc {5}{1}{Circular orbits}{34}{0}{5}
+\beamer@subsectionintoc {5}{2}{Elliptical orbits}{36}{0}{5}
+\beamer@subsectionintoc {5}{3}{Parabolic orbits}{38}{0}{5}
+\beamer@subsectionintoc {5}{4}{Hyperbolic orbits}{40}{0}{5}
+\beamer@sectionintoc {6}{Applications}{42}{0}{6}
+\beamer@subsectionintoc {6}{1}{Escape velocity}{43}{0}{6}
+\beamer@subsectionintoc {6}{2}{Geostationary orbit}{48}{0}{6}
